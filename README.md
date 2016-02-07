@@ -22,6 +22,6 @@ Below, find a list of some truly brilliant, and truly idiotic ideas :trollface:.
 4. *Cross me and your f:exclamation:cked license.* This is pretty self explanatory, it's a much simpler license that basically is just a modified version of the current MIT license. It allows for very liberal taking of content, but unlike Creative Commons which requires you to provide credit, our license forces you to either provide credit or get dropped. Put simply, you either provide an original reference for where the idea came from or you cut off and you can never borrow/take/fork from there again. Simple. Legalese.
 
 
-##License
+##License.
 
 Pretty clearly, none of these ideas have come to fruition yet. We're posting this repository with an MIT [license](LICENSE.md) so that you can take any of these ideas and do what you may with them.
