@@ -3,10 +3,6 @@
 ![](https://i.imgur.com/lz7hOlC.gif?noredirect)
 
 #Table of Contents
-[This is pretty simple.](##This-is-pretty-simple.)
-
-[The ideas :thought_balloon:.](##The-ideas-:thought_balloon:.)
-[License.](##License.)
 
 ##This is pretty simple.
 
