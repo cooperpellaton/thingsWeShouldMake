@@ -28,6 +28,12 @@ Below, find a list of some truly brilliant, and truly idiotic ideas :trollface:.
 
 4. *Cross me and your f:exclamation:cked license.* This is pretty self explanatory, it's a much simpler license that basically is just a modified version of the current MIT license. It allows for very liberal taking of content, but unlike Creative Commons which requires you to provide credit, our license forces you to either provide credit or get dropped. Put simply, you either provide an original reference for where the idea came from or you cut off and you can never borrow/take/fork from there again. Simple. Legalese.
 
+5. *Backups using GitHub* GitHub is interesting in that it allows a user to upload basically an unlimited amount of files. However, there is a file size limit which restricts individual files. We thought this system could be leveraged for easy backups of personal data. The way the system would work is as follows:
+  1. Encrypt the files using a modern encryption method (possibly AES).
+  2. Leverage a library to split the files into manegable chunks, ready to be uploaded to a GitHub repo.
+  3. Commit the files to the repo, and when needed, reverse the process to access the data.
+
+While not perfect, this system would be an interesting experiment using GitHub as a way of storing larger amounts of data. Commits would provide version history for your data, and a readme would allow you to make note of anything you needed to remember in regards to your data.
 
 #License.
 
