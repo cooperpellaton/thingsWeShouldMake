@@ -2,7 +2,7 @@
 
 ![](https://i.imgur.com/lz7hOlC.gif?noredirect)
 
-####Table of Contents.
+##Table of Contents.
 
 1. [This is pretty simple.](https://github.com/cooperpellaton/thingsWeShouldMake#this-is-pretty-simple)
 
@@ -10,13 +10,13 @@
 
 3. [License.](https://github.com/cooperpellaton/thingsWeShouldMake#license)
 
-#This is pretty simple.
+##This is pretty simple.
 
 So, [Joe](https://twitter.com/jswny) [Sweeney](https://github.com/jswny) and I live together. By nature that means we spend a lot of time together, and inevitably, as programmers, we always have ideas. Oft, you'll hear us say to each other "You know what we should make..." and then rattle off some half thought out often unfeasible idea.
 
 In light of this, we've decided to make this repository, make a list and public record of all the sh:collision:t we said we should make. To be clear, most of these ideas will be without code and without substance. Most will simply be a name and a one line explanation of the idea. Because we're passionate about what we do you're free to take any of these ideas and make them yourself. The reason we have these in the first place is because they don't exist, so the best possible outcome would be to see them come to fruition :muscle:.
 
-#The Ideas :thought_balloon:.
+##The Ideas :thought_balloon:.
 
 Below, find a list of some truly brilliant, and truly idiotic ideas :trollface:.
 
@@ -35,6 +35,6 @@ Below, find a list of some truly brilliant, and truly idiotic ideas :trollface:.
 
 While not perfect, this system would be an interesting experiment using GitHub as a way of storing larger amounts of data. Commits would provide version history for your data, and a readme would allow you to make note of anything you needed to remember in regards to your data.
 
-#License.
+##License.
 
 Pretty clearly, none of these ideas have come to fruition yet. We're posting this repository with an MIT [license](LICENSE.md) so that you can take any of these ideas and do what you may with them.
