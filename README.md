@@ -24,6 +24,7 @@ Below, find a list of some truly brilliant, and truly idiotic ideas :trollface:.
   1. Encrypt the files using a modern encryption method (possibly AES).
   2. Leverage a library to split the files into manegable chunks, ready to be uploaded to a GitHub repo.
   3. Commit the files to the repo, and when needed, reverse the process to access the data.
+
 While not perfect, this system would be an interesting experiment using GitHub as a way of storing larger amounts of data. Commits would provide version history for your data, and a readme would allow you to make note of anything you needed to remember in regards to your data.
 
 ##License.
