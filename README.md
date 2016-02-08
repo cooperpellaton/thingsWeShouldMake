@@ -2,13 +2,21 @@
 
 ![](https://i.imgur.com/lz7hOlC.gif?noredirect)
 
-##This is pretty simple.
+####Table of Contents.
+
+1. [This is pretty simple.](https://github.com/cooperpellaton/thingsWeShouldMake#this-is-pretty-simple)
+
+2. [The Ideas :thought_balloon:.](https://github.com/cooperpellaton/thingsWeShouldMake#the-ideas-thought_balloon)
+
+3. [License.](https://github.com/cooperpellaton/thingsWeShouldMake#license)
+
+#This is pretty simple.
 
 So, [Joe](https://twitter.com/jswny) [Sweeney](https://github.com/jswny) and I live together. By nature that means we spend a lot of time together, and inevitably, as programmers, we always have ideas. Oft, you'll hear us say to each other "You know what we should make..." and then rattle off some half thought out often unfeasible idea.
 
 In light of this, we've decided to make this repository, make a list and public record of all the sh:collision:t we said we should make. To be clear, most of these ideas will be without code and without substance. Most will simply be a name and a one line explanation of the idea. Because we're passionate about what we do you're free to take any of these ideas and make them yourself. The reason we have these in the first place is because they don't exist, so the best possible outcome would be to see them come to fruition :muscle:.
 
-##The ideas :thought_balloon:.
+#The Ideas :thought_balloon:.
 
 Below, find a list of some truly brilliant, and truly idiotic ideas :trollface:.
 
@@ -21,6 +29,6 @@ Below, find a list of some truly brilliant, and truly idiotic ideas :trollface:.
 4. *Cross me and your f:exclamation:cked license.* This is pretty self explanatory, it's a much simpler license that basically is just a modified version of the current MIT license. It allows for very liberal taking of content, but unlike Creative Commons which requires you to provide credit, our license forces you to either provide credit or get dropped. Put simply, you either provide an original reference for where the idea came from or you cut off and you can never borrow/take/fork from there again. Simple. Legalese.
 
 
-##License.
+#License.
 
 Pretty clearly, none of these ideas have come to fruition yet. We're posting this repository with an MIT [license](LICENSE.md) so that you can take any of these ideas and do what you may with them.
